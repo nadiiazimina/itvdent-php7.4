@@ -1,6 +1,5 @@
 <?php
 
-spl_autoload_register(function (string $className)
-{
+use data\User3;
+use d\User as UserD;
 
-});
