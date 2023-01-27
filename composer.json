@@ -1,0 +1,18 @@
+{
+    "name": "pickurovanadiia/itvdent-php7.4",
+    "autoload": {
+        "psr-4": {
+            "Pickurovanadiia\\ItvdentPhp74\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nadiiazimina",
+            "email": "84657846+nadiiazimina@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "fzaninotto/faker": "^1.9"
+    }
+}
